@@ -20,6 +20,27 @@ const Hero = () => {
                                     and in-play betting faster and save mobile data.
                                 </p>
                             </div>
+
+                            <div className="flex mobile">
+                                <h3>1XWIN</h3>
+                                <div className="bet-app">
+                                    <h3>Smartphone</h3>
+                                    <p>
+                                    This app will make pre-match 
+                                    and in-play betting faster and save mobile data.
+                                </p> 
+                                </div>
+                               
+                            </div>
+
+                            <div className="flex desk-top">
+                                <h1>1XWIN</h1>
+                                <h3>Betting ap</h3>
+                                <p>
+                                    This app will make pre-match 
+                                    and in-play betting faster and save mobile data.
+                                </p>
+                            </div>
                         </div>
                         <div className="burger"></div>
                         <div className="right-nav flex"></div>
